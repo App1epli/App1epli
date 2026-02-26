@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Alis</h1>
+<h3 align="center">Vrotend Developer | Future Software Engineer</h3>
 
-<!--
-**App1epli/App1epli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://i.pinimg.com/originals/5e/e7/78/5ee778ce78f0ccdbd8d681bdd522c72c.gif" width="500"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+- 🎓 Studying WEEB-DEV & OOP  
+- 💻 Working with Angular, Java, JavaScript  
+
+---
+
+### 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,angular,java,git,github" />
+</p>
