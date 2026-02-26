@@ -2,7 +2,7 @@
 <h3 align="center">Vrotend Developer | Future Software Engineer</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/5e/e7/78/5ee778ce78f0ccdbd8d681bdd522c72c.gif" width="800"/>
+  <img src="https://i.pinimg.com/originals/5e/e7/78/5ee778ce78f0ccdbd8d681bdd522c72c.gif" width="500"/>
 </p>
 
 ---
