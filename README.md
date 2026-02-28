@@ -19,3 +19,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,angular,java,cpp,python,git,github"/>
 </p>
+
+(˵ ᓀ ‸ᓀ ˵)      (˶˃⤙˂˶)
+<img src="https://still-smoke-3756.alistynyshtyk07.workers.dev" width="500" />
