@@ -20,9 +20,12 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,angular,java,cpp,python,git,github"/>
 </p>
 
-### BAKA (˵ ᓀ ‸ᓀ ˵)      (˶˃⤙˂˶)
 <div align="center">
-  <kbd>
-    <img src="https://still-smoke-3756.alistynyshtyk07.workers.dev" width="500" />
-  </kbd>
+
+<h3>BAKA (˵ ᓀ ‸ᓀ ˵) &nbsp;&nbsp; (˶˃⤙˂˶)</h3>
+
+<kbd>
+  <img src="https://still-smoke-3756.alistynyshtyk07.workers.dev" width="500" />
+</kbd>
+
 </div>
