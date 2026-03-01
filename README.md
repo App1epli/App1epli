@@ -25,7 +25,7 @@
 
 <div align="center">
 
-<h3>BAKA (˵ ᓀ ‸ᓀ ˵) &nbsp;&nbsp; (˶˃⤙˂˶)</h3>
+<h3>BAKA (˵ ᓀ ‸ᓀ ˵) &nbsp;&nbsp; Random Blush Generator</h3>
 
 <kbd>
   <img src="https://still-smoke-3756.alistynyshtyk07.workers.dev" width="500" />
