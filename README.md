@@ -23,6 +23,10 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,angular,java,cpp,python,git,github"/>
 </p>
 
+## 🎧 Spotify
+
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=312gqad5njidxpywiza2wbdqbhky&cover_image=true&theme=novatorem)](https://spotify-github-profile.kittinanx.com/api/view?uid=312gqad5njidxpywiza2wbdqbhky&redirect=true)
+
 <div align="center">
 
 <h3>BAKA (˵ ᓀ ‸ᓀ ˵) &nbsp;&nbsp; Random Blush Generator</h3>
