@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi, I'm Alis 
   <!-- <img src="https://i.pinimg.com/originals/dd/70/16/dd701604d237a4d74492795cdb185ac9.gif" width="50" style="vertical-align: middle;"/> -->
-  <img src="https://i.pinimg.com/originals/dd/70/16/dd701604d237a4d74492795cdb185ac9.gif" width="50" style="vertical-align: middle;"/>
+  <img src="https://giffiles.alphacoders.com/110/110062.gif" width="50" style="vertical-align: middle;"/>
 </h1>
 <h3 align="center">Vrotend Developer | Future Software Engineer</h3>
 
