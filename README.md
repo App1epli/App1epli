@@ -26,17 +26,18 @@
 
 <div align="center">
 
-<!-- <h3>BAKA (˵ ᓀ ‸ᓀ ˵) &nbsp;&nbsp; Random Blush Generator</h3>
+<h3>BAKA (˵ ᓀ ‸ᓀ ˵) &nbsp;&nbsp; Random Blush Generator</h3>
 
-<kbd>
+<!-- <kbd>
   <img src="https://still-smoke-3756.alistynyshtyk07.workers.dev" width="500" />
 </kbd> -->
-
+<kbd>
 <a href="https://www.youtube.com/watch?v=ZL5pt7cxlDM&list=RD9GElj3l14mc&index=2" target="_blank">
   <img src="https://still-smoke-3756.alistynyshtyk07.workers.dev" width="500"
        style="cursor:pointer; transition:0.2s;" 
        onmouseover="this.style.opacity=0.8"
        onmouseout="this.style.opacity=1"/>
 </a>
+</kbd>
 
 </div>
