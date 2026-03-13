@@ -32,7 +32,7 @@
   <img src="https://still-smoke-3756.alistynyshtyk07.workers.dev" width="500" />
 </kbd> -->
 <kbd>
-<a href="https://www.youtube.com/watch?v=ZL5pt7cxlDM&list=RD9GElj3l14mc&index=2" target="_blank">
+<a href="https://www.youtube.com/watch?v=ZL5pt7cxlDM&list=RD9GElj3l14mc&t=57s" target="_blank">
   <img src="https://still-smoke-3756.alistynyshtyk07.workers.dev" width="500"
        style="cursor:pointer; transition:0.2s;" 
        onmouseover="this.style.opacity=0.8"
