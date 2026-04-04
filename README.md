@@ -24,11 +24,11 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,angular,java,cpp,python,git,github"/>
 </p>
 
-<div align="center">
+<!-- <div align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312gqad5njidxpywiza2wbdqbhky&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=312gqad5njidxpywiza2wbdqbhky&redirect=true)
 
-</div>
+</div> -->
 
 <div align="center">
 
