@@ -38,7 +38,7 @@
   <img src="https://still-smoke-3756.alistynyshtyk07.workers.dev" width="500" />
 </kbd> -->
 <kbd>
-<a href="https://www.youtube.com/watch?v=wPdX66-Ag2s&list=RDwPdX66-Ag2s&start_radio=1" target="_blank">
+<a href="https://www.youtube.com/watch?v=obLSGG-oEyw" target="_blank">
   <img src="https://still-smoke-3756.alistynyshtyk07.workers.dev" width="500"
        style="cursor:pointer; transition:0.2s;" 
        onmouseover="this.style.opacity=0.8"
