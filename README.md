@@ -1,8 +1,8 @@
 <h1 align="center">
-  Hi, I'm Alis 🌸
+  Hi, I'm Alis 🍻
   <!-- <img src="https://i.pinimg.com/originals/dd/70/16/dd701604d237a4d74492795cdb185ac9.gif" width="50" style="vertical-align: middle;"/> -->
 </h1>
-<h3 align="center">I'm mad Programmer, it's so cool. sonafabich</h3>
+<h3 align="center">in this life you need something to take the edge off</h3>
 
 <p align="center">
   <img src="https://64.media.tumblr.com/6e2e41052d53da640020d65f6887dd62/47277f1e5a844021-48/s640x960/42ce95fc7905e80c9403575b5ee88fd2c9980491.gif" width="500"/>
@@ -31,14 +31,14 @@
 
 </div> -->
 
-<div align="center">
+<!-- <div align="center">
 
-<h3>BAKA (˵ ᓀ ‸ᓀ ˵) &nbsp;&nbsp; Random Blush Generator</h3>
+<h3>BAKA (˵ ᓀ ‸ᓀ ˵) &nbsp;&nbsp; Random Blush Generator</h3> -->
 
 <!-- <kbd>
   <img src="https://still-smoke-3756.alistynyshtyk07.workers.dev" width="500" />
 </kbd> -->
-<kbd>
+<!-- <kbd>
 <a href="https://www.youtube.com/watch?v=obLSGG-oEyw" target="_blank">
   <img src="https://still-smoke-3756.alistynyshtyk07.workers.dev" width="500"
        style="cursor:pointer; transition:0.2s;" 
@@ -47,4 +47,4 @@
 </a>
 </kbd>
 
-</div>
+</div> -->
