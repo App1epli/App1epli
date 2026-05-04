@@ -40,7 +40,7 @@
 </kbd> -->
 <kbd>
 <a href="https://www.youtube.com/watch?v=obLSGG-oEyw" target="_blank">
-  <img src="https://himeno.alistynyshtyk07.workers.dev" width="500"
+  <img src="https://himeno.alistynyshtyk07.workers.dev?t=<?= Date.now() ?>" width="500"
        style="cursor:pointer; transition:0.2s;" 
        onmouseover="this.style.opacity=0.8"
        onmouseout="this.style.opacity=1"/>
