@@ -31,16 +31,16 @@
 
 </div> -->
 
-<!-- <div align="center">
+<div align="center">
 
-<h3>BAKA (˵ ᓀ ‸ᓀ ˵) &nbsp;&nbsp; Random Blush Generator</h3> -->
+<h3>Himeno Generator</h3>
 
 <!-- <kbd>
   <img src="https://still-smoke-3756.alistynyshtyk07.workers.dev" width="500" />
 </kbd> -->
-<!-- <kbd>
+<kbd>
 <a href="https://www.youtube.com/watch?v=obLSGG-oEyw" target="_blank">
-  <img src="https://still-smoke-3756.alistynyshtyk07.workers.dev" width="500"
+  <img src="https://himeno.alistynyshtyk07.workers.dev" width="500"
        style="cursor:pointer; transition:0.2s;" 
        onmouseover="this.style.opacity=0.8"
        onmouseout="this.style.opacity=1"/>
