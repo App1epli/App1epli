@@ -39,7 +39,9 @@
   <img src="https://still-smoke-3756.alistynyshtyk07.workers.dev" width="500" />
 </kbd> -->
 <kbd>
-[![gif](https://himeno.alistynyshtyk07.workers.dev)](https://youtu.be/bnxYySBGtwo)
+  <a href="https://youtu.be/bnxYySBGtwo" target="_blank">
+    <img src="https://himeno.alistynyshtyk07.workers.dev" width="500"/>
+  </a>
 </kbd>
 
 </div>
