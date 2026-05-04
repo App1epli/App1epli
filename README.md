@@ -39,12 +39,7 @@
   <img src="https://still-smoke-3756.alistynyshtyk07.workers.dev" width="500" />
 </kbd> -->
 <kbd>
-<a href="https://youtu.be/bnxYySBGtwo?si=2xYLFH1ItazvETes" target="_blank">
-  <img src="https://himeno.alistynyshtyk07.workers.dev" width="500"
-       style="cursor:pointer; transition:0.2s;" 
-       onmouseover="this.style.opacity=0.8"
-       onmouseout="this.style.opacity=1"/>
-</a>
+[![gif](https://himeno.alistynyshtyk07.workers.dev)](https://youtu.be/bnxYySBGtwo)
 </kbd>
 
 </div>
