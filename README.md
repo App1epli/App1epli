@@ -5,9 +5,11 @@
 <h3 align="center">in this life you need something to take the edge off</h3>
 
 <p align="center">
+  <kbd>
   <img src="https://64.media.tumblr.com/6e2e41052d53da640020d65f6887dd62/47277f1e5a844021-48/s640x960/42ce95fc7905e80c9403575b5ee88fd2c9980491.gif" width="500"/>
   <!-- <img src="https://i.pinimg.com/originals/5e/e7/78/5ee778ce78f0ccdbd8d681bdd522c72c.gif" width="500"/> -->
   <!-- <img src="https://giffiles.alphacoders.com/110/110062.gif" width="500"/> -->
+  </kbd>
 </p>
 
 ---
@@ -24,6 +26,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,angular,java,cpp,python,git,github"/>
 </p>
+
 
 <!-- <div align="center">
 
@@ -45,6 +48,8 @@
 </kbd>
 
 </div>
+
+---
 
 ### Doom LastFM
 
